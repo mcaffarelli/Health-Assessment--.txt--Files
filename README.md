@@ -1,4 +1,4 @@
-# Hospital-.txt--Files
+# Health Assessment-.txt--Files
 
 I wrote this program to demonstrate my ability to read and write to .txt files in Java. The program can read patient data from a text file and populate the user interface. It also can let the user know if that patient data is within a normal range or if the patient data is out of range. The program will also allow the data entered to be saved and written to a text file. 
 
